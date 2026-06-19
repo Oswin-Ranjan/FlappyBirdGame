@@ -19,18 +19,6 @@ A Flappy Bird clone built using **Java Swing** and **AWT Graphics**. This projec
 * AWT Graphics
 * Object-Oriented Programming (OOP)
 
-## 📂 Project Structure
-
-```text
-FlappyBirdGame/
-├── App.java
-├── FlappyBird.java
-├── flappybird.png
-├── flappybirdbg.png
-├── toppipe.png
-└── bottompipe.png
-```
-
 ## 🚀 Installation & Setup
 
 ### Clone the Repository
